@@ -62,7 +62,7 @@ http://www.apache.org/licenses/
 
 ### Additional Information
 - This program is registered software (Copyright Registration No. C-2026-008133, Korea Copyright Commission).
-- Certain parts of the algorithm are protected under Patent No. 10-XXXX (KIPO).
+- Certain parts of the algorithm are protected under Patent No. 10-2026-0040020 (KIPO).
 - Copyright (c) 2024 MLFM Lab, Kyungpook National University.
 - Some codes in this repository are modified from Dual deep mesh prior.
 
